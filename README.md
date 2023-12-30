@@ -1,5 +1,5 @@
 # Love Joint 
 A Nutraceutical  for Lifestyle and Healthy Living. 
 
-## Repository 
+## Repository  
 Love Joint - https://github.com/kukuu/lovejoint
